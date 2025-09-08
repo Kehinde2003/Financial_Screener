@@ -9,12 +9,12 @@ A financial screener dashboard using Python &amp; Tableau to score companies acr
 
 ## Files
 - `Data_cleaned.xlsx` – Cleaned dataset prepared for scoring.  
-- `companies_scores.xlsx` – Processed dataset with calculated scores for dashboard use.  
-- `score_calculation.py` – Python script for data processing and scoring logic.  
+- `Companies_scores.xlsx` – Processed dataset with calculated scores for dashboard use.  
+- `Score_calculation.py` – Python script for data processing and scoring logic.  
 - `Financial_Screener.twbx` – Tableau dashboard file with interactive visuals.  
 - `README.md` – Project overview and usage instructions.
 
 ## Usage
-1. Run `score_calculation.py` with `Data_cleaned.xlsx` as input to generate `companies_scores.xlsx`.  
+1. Run `Score_calculation.py` with `Data_cleaned.xlsx` as input to generate `Companies_scores.xlsx`.  
 2. Open `Financial_Screener.twbx` in Tableau to explore the interactive dashboard.  
-3. Use filters to analyze companies by sector, classification, or specific scoring metrics.  
+3. Use filters to analyse companies by sector, classification, or specific scoring metrics.  
